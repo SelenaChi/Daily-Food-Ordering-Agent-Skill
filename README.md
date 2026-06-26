@@ -2,6 +2,10 @@
 
 ## Overview
 
+It's a busy day. You might always think about one thing...What should I eat today?
+
+Yah, this SKILL is for you:)
+
 This project implements a Daily Food Ordering Skill for an AI agent.
 
 The skill automatically selects a meal once per day based on a user's saved preferences, including favorite cuisines, dietary restrictions, budget, and confirmation settings.
