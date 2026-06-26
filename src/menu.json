@@ -1,0 +1,42 @@
+[
+  {
+    "restaurant": "Marugame Udon",
+    "item": "Beef Udon",
+    "cuisine": "Japanese",
+    "price": 16,
+    "tags": ["beef"],
+    "available": true
+  },
+  {
+    "restaurant": "Sweetgreen",
+    "item": "Harvest Bowl",
+    "cuisine": "Mediterranean",
+    "price": 17,
+    "tags": ["vegetarian"],
+    "available": true
+  },
+  {
+    "restaurant": "Chipotle",
+    "item": "Chicken Burrito Bowl",
+    "cuisine": "Mexican",
+    "price": 15,
+    "tags": ["chicken"],
+    "available": true
+  },
+  {
+    "restaurant": "Boiling Crab",
+    "item": "Shrimp Combo",
+    "cuisine": "Seafood",
+    "price": 28,
+    "tags": ["shellfish"],
+    "available": true
+  },
+  {
+    "restaurant": "Din Tai Fung",
+    "item": "Pork Xiao Long Bao",
+    "cuisine": "Chinese",
+    "price": 22,
+    "tags": ["pork"],
+    "available": false
+  }
+]

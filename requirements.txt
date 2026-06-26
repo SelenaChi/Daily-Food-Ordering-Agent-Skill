@@ -1,0 +1,7 @@
+# Core skill runs on the Python standard library alone.
+# PyYAML is optional but recommended for robust preference parsing;
+# without it, the skill falls back to a built-in minimal YAML parser.
+PyYAML>=6.0
+
+# Test runner
+pytest>=7.0

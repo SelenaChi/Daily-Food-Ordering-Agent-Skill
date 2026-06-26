@@ -1,0 +1,14 @@
+order_time: "12:00"
+
+favorite_cuisines:
+  - Japanese
+  - Mediterranean
+
+dietary_restrictions:
+  - no shellfish
+
+budget_max_usd: 20
+
+confirmation_required: true
+
+avoid_repeat_days: 3
